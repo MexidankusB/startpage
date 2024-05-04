@@ -134,7 +134,7 @@ a:hover {
   padding-left: 0px;
   color: var(--color-fg);
   border: none;
-  font-size: 28px;
-  font-family: "Monospace";
+  font-size: 30px;
+  font-family: "Fira Code";
   bottom: -1px;
 }
